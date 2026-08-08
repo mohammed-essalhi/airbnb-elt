@@ -1,0 +1,1 @@
+SELECT * FROM public.raw_airbnb_data

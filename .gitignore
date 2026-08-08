@@ -1,0 +1,15 @@
+# Environments
+dbt_env/
+venv/
+__pycache__/
+
+# Data files
+*.csv
+*.xlsx
+
+# Secrets
+.env
+profiles.yml
+
+#videos
+*.mkv
