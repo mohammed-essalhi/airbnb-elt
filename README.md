@@ -96,3 +96,10 @@ airbnb-elt-vs-etl/
 # Notes
 Environment: Windows, VS Code, Python 3.11, PostgreSQL.
 Database: first_ELT_DB, public schema.
+
+##  Author
+**Mohammed Essalhi**
+* [LinkedIn](https://linkedin.com/in/mohammed-essalhi-23794b24b)
+
+
+
